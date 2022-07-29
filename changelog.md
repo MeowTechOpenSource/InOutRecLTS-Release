@@ -1,12 +1,16 @@
-Dear users, this update adds support for changing a entry of the record, it also adds a markup column and a total row at the bottom of the filter result page. It also fixes an issue where the add record page's formula result and date will not reset after submission. It also removes the force rotation, adds horizontal scrolling support and improves application stability. It is recommended to update.
+Dear users, this update improves the user interface, added QR code sharing and improves application stability. It is recommended to update.
 
 **[User Interface]**
 
-This update improves the user interface of the application and fixes an issue where the add record page's formula result and date will not reset after submission, it also adds support for scrolling horizontally in the user interface in portrait mode to allow you to more easily view details of the record. It also adds support for changing a entry of the record and adds a markup column and a total row at the bottom of the filter result page.
+This update improves user interface.
 
 **[Application]**
 
 This update improves stabilty.
+
+**[Sharing]**
+This update added QR code sharing.
+
 
 **Update Notes:**
 
