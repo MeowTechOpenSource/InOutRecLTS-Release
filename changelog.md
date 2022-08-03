@@ -10,7 +10,8 @@ This update improves user interface.
 
 This update improves stabilty.
 
-**[Sharing]**
+**[Record]**
+
 This update fixes formula issue by replacing it with calculator.
 
 
