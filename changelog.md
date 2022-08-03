@@ -1,3 +1,5 @@
+****WARNING: THIS IS AN IMPORTANT UPDATE THAT FIXES A MAJOR FLAW IN THE SYSTEM, THEREFORE THIS UPDATE HAS BEEN MARKED AS ESSENTIAL. Please update to ensure wrong data are not being saved.****
+
 Dear users, this update improves the user interface, fixes formula issue by replacing it with calculator and improves application stability. It is recommended to update.
 
 **[User Interface]**
