@@ -1,4 +1,4 @@
-Dear users, this update improves the user interface, added QR code sharing and improves application stability. It is recommended to update.
+Dear users, this update improves the user interface, fixes formula issue by replacing it with calculator and improves application stability. It is recommended to update.
 
 **[User Interface]**
 
@@ -9,7 +9,7 @@ This update improves user interface.
 This update improves stabilty.
 
 **[Sharing]**
-This update added QR code sharing.
+This update fixes formula issue by replacing it with calculator.
 
 
 **Update Notes:**
